@@ -1,1 +1,6 @@
 Relatorio do encontro de ciencia aberta
+
+1. Software Carpentry
+2. Hackaton de hardware científico aberto 
+3. Wikiversidade, abrindo projetos e cadernos de pesquisa 
+4. Wikimedia projects as plataforms for Open Science 
