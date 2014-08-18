@@ -4,3 +4,12 @@ Relatorio do encontro de ciencia aberta
 2. Hackaton de hardware científico aberto 
 3. Wikiversidade, abrindo projetos e cadernos de pesquisa 
 4. Wikimedia projects as plataforms for Open Science 
+
+Seminarios:
+– Conferência de abertura: ”The Republic of Open Science:The institution’s historical origins and prospects for continued vitality”
+– Ciência aberta: questões em debate
+– Ciência cidadã e educação aberta
+– Ferramentas científicas e hardware abertos
+– Inovações em publicação científica aberta e alternativas de avaliação
+– Dados científicos abertos
+– Wikipesquisas e cadernos científicos abertos
